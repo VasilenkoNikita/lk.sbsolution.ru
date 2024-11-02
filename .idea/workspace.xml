@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d4371bc-1bd6-4242-88cf-8407cacab8fb" name="Default Changelist" comment="Много новых изменений которые уже никто не опишет">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbslkup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbslkup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Filters/RoleFilter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Filters/RoleFilter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartBarExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartBarExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartLineExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartLineExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartPercentageExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartPercentageExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartPieExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/ChartPieExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/MetricsExample.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Examples/MetricsExample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RoleEditLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RoleEditLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RoleListLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RoleListLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RolePermissionLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/Role/RolePermissionLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserEditLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserEditLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserFiltersLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserFiltersLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserListLayout.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Layouts/User/UserListLayout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/PlatformProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/PlatformProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Presenters/UserPresenter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Presenters/UserPresenter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleCardsScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleCardsScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleChartsScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleChartsScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleFieldsAdvancedScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleFieldsAdvancedScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleFieldsScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleFieldsScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleLayoutsScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleLayoutsScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleTextEditorsScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Examples/ExampleTextEditorsScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/ReportingScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/ReportingScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Role/RoleEditScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Role/RoleEditScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/Role/RoleListScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/Role/RoleListScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Orchid/Screens/User/UserEditScreen.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Orchid/Screens/User/UserEditScreen.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/platform.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/platform.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/css/orchid.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/css/orchid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/mstile-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/orchid-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/favicon/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/logo-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/orchid-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/orchid-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/img/orchid.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/manifest.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/manifest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/manifest.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/manifest.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/orchid.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/orchid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/orchid.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/orchid.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/js/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/js/vendor.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resources/orchid/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resources/orchid/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/laravel/scout" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/orchid/blade-icons" />
+      <path value="$PROJECT_DIR$/vendor/orchid/icons" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/tabuna/breadcrumbs" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/watson/active" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/orchid/platform" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/maatwebsite/excel" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/maennchen/zipstream-php" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-newsletter" />
+      <path value="$PROJECT_DIR$/vendor/drewm/mailchimp-api" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-tags" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-translatable" />
+      <path value="$PROJECT_DIR$/vendor/spatie/eloquent-sortable" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jKdBLFHLIhjQJL0aGm91bW0GkS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/OpenServer/modules/php/PHP_7.4/ext/php_xdebug.dll&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.debug&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\app\Orchid\Layouts\TaskManager\Messages" />
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\app\Orchid\Layouts\TaskManager\Board" />
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\app\Orchid\Screens\TaskManager\Board" />
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\app\View\Components" />
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\resources\views\components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\OpenServer\domains\sbslkup\app\Models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.ReportingScreen.php">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ReportingScreen.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/Orchid/Screens/ReportingScreen.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.ReportingScreen.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d4371bc-1bd6-4242-88cf-8407cacab8fb" name="Default Changelist" comment="" />
+      <created>1603556590696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603556590696</updated>
+      <workItem from="1603556599725" duration="26122000" />
+      <workItem from="1604161768674" duration="29691000" />
+      <workItem from="1604273923853" duration="9818000" />
+      <workItem from="1604631225347" duration="30816000" />
+      <workItem from="1605765193308" duration="22185000" />
+      <workItem from="1605884783599" duration="23548000" />
+      <workItem from="1607958352658" duration="9051000" />
+      <workItem from="1609078247193" duration="1359000" />
+      <workItem from="1609167576064" duration="4789000" />
+      <workItem from="1609188578486" duration="38463000" />
+      <workItem from="1609684477247" duration="49211000" />
+      <workItem from="1610289160389" duration="35896000" />
+      <workItem from="1610604819945" duration="712000" />
+      <workItem from="1610692510890" duration="1805000" />
+      <workItem from="1610809125960" duration="602000" />
+      <workItem from="1610850517821" duration="38835000" />
+      <workItem from="1611406688809" duration="1599000" />
+      <workItem from="1611412497361" duration="8876000" />
+      <workItem from="1611534506025" duration="53109000" />
+      <workItem from="1611875551167" duration="31502000" />
+      <workItem from="1612124472645" duration="4308000" />
+      <workItem from="1612129443556" duration="18568000" />
+      <workItem from="1712049261179" duration="13810000" />
+      <workItem from="1712138932890" duration="2564000" />
+      <workItem from="1712230764736" duration="1224000" />
+      <workItem from="1712854683401" duration="1213000" />
+      <workItem from="1713951977652" duration="7235000" />
+      <workItem from="1713972607123" duration="9316000" />
+      <workItem from="1714040738777" duration="5750000" />
+      <workItem from="1714047276478" duration="3504000" />
+      <workItem from="1714124211768" duration="13272000" />
+      <workItem from="1714205970912" duration="5888000" />
+      <workItem from="1714298777916" duration="6649000" />
+      <workItem from="1730552022259" duration="346000" />
+    </task>
+    <task id="LOCAL-00001" summary="Доабвление новых миграций, правка старых, удаление лишних, накатил миграции на базу">
+      <created>1609249941613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609249941613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Добабвление модуля Reports в систему">
+      <created>1609258030311</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609258030311</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавление модуля Payments в систему">
+      <created>1609259680814</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609259680814</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавление модуля ОКВЭД в систему">
+      <created>1609265019289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609265019289</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавление модуля патентов для клиентов в систему, обновление списка клиентов">
+      <created>1609333932521</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609333932521</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Добавление модуля отчетности, добавление сертификата для клиента + мелкие фиксы и миграции">
+      <created>1610300756385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610300756385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Добавлене прав доступа к меню и моудлям сервисов, добавление ролей для бухгалтеров">
+      <created>1610409136471</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610409136471</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Добавление модуля отчетности">
+      <created>1610604912356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610604912356</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавление модуля полезных ресурсов, добавление модуля тэгов, расширение модуля клиентов (добавлены банковские выписки, кассы, места ведения рабочей деятельности, рефакторинг интерфейса), отредактирован интерфейс модуля отчетности, начат рефакторинг моделей и screen-ов, начато добавление хлебных крошек">
+      <created>1611784120604</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611784120604</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Добавлены правки в модель банковских выписок">
+      <created>1611784176077</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611784176077</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Русификация header-ов и заголовков таблиц">
+      <created>1611790946428</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611790946428</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Рефакторинг code style а PSR-12, перенос модели клиентов из App в App\Models, мелкие граммотические правки">
+      <created>1611792788206</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611792788206</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Перенос моделей в папку app\models вместо app, перелинковка контроллеров, импортов, провайдеров, крошек">
+      <created>1611799314051</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611799314051</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix линковки модели user в config/auth и serFactory">
+      <created>1611799691104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611799691104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Добавлены хлебные крошки для раздела 'Отчетность'">
+      <created>1611799823069</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611799823069</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Мелкие правки code style в группах">
+      <created>1611800179592</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1611800179592</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Добавлены хлебные крошки для раздела 'Группы'">
+      <created>1611801025331</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1611801025331</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix кривой связки отношений">
+      <created>1611801470930</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611801470930</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Добавление хлебных крошек для раздела 'Отчеты'">
+      <created>1611802370474</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1611802370474</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Добавление хлебных крошек для раздела 'Оплаты'">
+      <created>1611803099009</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1611803099009</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Добавление хлебных крошек для раздела 'Полезные ресурсы'">
+      <created>1611804040495</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1611804040495</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Добавление хлебных крошек для разделов 'Новости', 'ОКВЭД'">
+      <created>1611805118587</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1611805118587</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Добавлен node.js и добавлен новый файл стилей">
+      <created>1612059826909</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612059826909</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Добавлен модуль тэгов, добавлен функционал тэгов для модуля &quot;Полезные ресурсы&quot;">
+      <created>1612059883429</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1612059883429</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Добавлен функционал тэгов к разделу &quot;Новости&quot;, мелкие фиксы в разделе &quot;Полезные ресурсы&quot;">
+      <created>1612105566258</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1612105566258</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добабвление модуля Reports в систему" />
+    <MESSAGE value="Добавление модуля Payments в систему" />
+    <MESSAGE value="Добавление модуля ОКВЭД в систему" />
+    <MESSAGE value="Добавление модуля патентов для клиентов в систему, обновление списка клиентов" />
+    <MESSAGE value="Добавление модуля отчетности, добавление сертификата для клиента + мелкие фиксы и миграции" />
+    <MESSAGE value="Добавлене прав доступа к меню и моудлям сервисов, добавление ролей для бухгалтеров" />
+    <MESSAGE value="Добавление модуля отчетности" />
+    <MESSAGE value="Добавление модуля полезных ресурсов, добавление модуля тэгов, расширение модуля клиентов (добавлены банковские выписки, кассы, места ведения рабочей деятельности, рефакторинг интерфейса), отредактирован интерфейс модуля отчетности, начат рефакторинг моделей и screen-ов, начато добавление хлебных крошек" />
+    <MESSAGE value="Добавлены правки в модель банковских выписок" />
+    <MESSAGE value="Русификация header-ов и заголовков таблиц" />
+    <MESSAGE value="Рефакторинг code style а PSR-12, перенос модели клиентов из App в App\Models, мелкие граммотические правки" />
+    <MESSAGE value="Перенос моделей в папку app\models вместо app, перелинковка контроллеров, импортов, провайдеров, крошек" />
+    <MESSAGE value="fix линковки модели user в config/auth и serFactory" />
+    <MESSAGE value="Добавлены хлебные крошки для раздела 'Отчетность'" />
+    <MESSAGE value="Мелкие правки code style в группах" />
+    <MESSAGE value="Добавлены хлебные крошки для раздела 'Группы'" />
+    <MESSAGE value="fix кривой связки отношений" />
+    <MESSAGE value="Добавление хлебных крошек для раздела 'Отчеты'" />
+    <MESSAGE value="Добавление хлебных крошек для раздела 'Оплаты'" />
+    <MESSAGE value="Добавление хлебных крошек для раздела 'Полезные ресурсы'" />
+    <MESSAGE value="Добавление хлебных крошек для разделов 'Новости', 'ОКВЭД'" />
+    <MESSAGE value="Добавлен node.js и добавлен новый файл стилей" />
+    <MESSAGE value="Добавлен модуль тэгов, добавлен функционал тэгов для модуля &quot;Полезные ресурсы&quot;" />
+    <MESSAGE value="Добавлен функционал тэгов к разделу &quot;Новости&quot;, мелкие фиксы в разделе &quot;Полезные ресурсы&quot;" />
+    <MESSAGE value="Много новых изменений которые уже никто не опишет" />
+    <option name="LAST_COMMIT_MESSAGE" value="Много новых изменений которые уже никто не опишет" />
+  </component>
+</project>

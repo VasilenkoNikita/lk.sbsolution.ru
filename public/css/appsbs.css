@@ -1,0 +1,136 @@
+/*
+@import "/node_modules/bootstrap-table/dist/bootstrap-table.min.css";
+@import "/node_modules/bootstrap-table/dist/bootstrap-table.min.css";
+@import "/node_modules/bootstrap-table/dist/extensions/sticky-header/bootstrap-table-sticky-header.css";
+@import "/node_modules/bootstrap-table/dist/extensions/fixed-columns/bootstrap-table-fixed-columns.css";
+*/
+
+.table-bordered > div > div > table{
+  table-layout: fixed;
+}
+
+.table-bordered > div > .table-responsive{
+  height: 1000px;
+  overflow-y: auto;
+}
+
+.fields-cropper-container{
+  width: 200px;
+}
+
+.table-bordered > div > div > table > thead > tr > th{
+  border:1px solid #8a8b8c !important;
+}
+
+.table-bordered > div > div > table > tbody > tr > td{
+  border:1px solid #8a8b8c !important;
+}
+
+.table-bordered > div > div > table > tbody > tr > td > div > .form-group > .btn {
+  white-space: normal;
+}
+
+.table-bordered > div > div > table > tbody > tr > td > div > div > div > .btn-link {
+  padding: 5px;
+  white-space: normal;
+  word-break: break-word;
+  display: inline;
+  width: auto;
+}
+
+.table-bordered > div > div > table > tbody > tr > td > div > div > div > .form-group > button {
+  background: transparent;
+}
+
+.table-bordered > div > div > table > tbody > tr > td > div > div > div > .form-group > button:hover {
+  background: transparent;
+}
+
+.matrix .bootstrap-tagsinput, .matrix .chosen-choices, .matrix .chosen-single, .matrix .form-control, .matrix .select2-selection--single {
+  border: none!important;
+  height: auto !important;
+  font-weight: 400;
+}
+
+.table-bordered > div > div > table > thead > tr > th {
+  position: sticky !important;
+  position: -webkit-sticky !important;
+  top: -1px;
+  z-index: 5;
+  color:black;
+}
+
+.table-bordered > div > div > table > tbody > tr > td:nth-child(1) {
+  position: sticky !important;
+  position: -webkit-sticky !important;
+  left: -1px;
+  z-index: 9998;
+}
+
+.table-bordered > div > div > table > tbody > tr > td:nth-child(1) {
+  position: sticky !important;
+  position: -webkit-sticky !important;
+  left: -1px;
+  z-index: 2;
+}
+
+.ribbon {
+  position: relative;
+}
+
+.ribbon1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 10px;
+}
+
+.ribbon1 span {
+  position: relative;
+  display: block;
+  text-align: center;
+  background: #F8463F;
+  line-height: 1;
+  padding: 2px 8px 2px;
+  width: 70px;
+}
+
+.ribbon1 span:before, .ribbon1 span:after {
+  position: absolute;
+  content: "";
+}
+
+.ribbon1 span:after {
+  top: 0;
+  border-radius: 8px 8px 0 0;
+  background: #C02031;
+}
+
+.ribbon2 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 10px;
+}
+
+.ribbon2 span {
+  position: relative;
+  display: block;
+  text-align: center;
+  background: #F8463F;
+  line-height: 1;
+  padding: 2px 8px 2px;
+  width: 70px;
+}
+
+.ribbon2 span:before, .ribbon2 span:after {
+  position: absolute;
+  content: "";
+}
+
+.ribbon2 span:after {
+  top: 0;
+  border-radius: 8px 8px 0 0;
+  background: #C02031;
+}
+
